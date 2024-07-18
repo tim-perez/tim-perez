@@ -2,7 +2,7 @@
 - 👀 I’m interested in expanding my experience into the technology field. 
 - 🌱 I’m currently learning how to build full-stack applications. 
 - 💞️ I’m looking to collaborate on various projects to develop my skills. 
-- 📫 How to reach me - timperez624@gmail.com
+- 📫 How to reach me - timperez624@gmail.com | 909-706-7267
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: As a teenager, I've built over 10 computers. Many of which was for friends and family. 
 
