@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tim-perez
+- 👋 Hi, I’m Tim Perez!
 - 👀 I’m interested in expanding my experience into the technology field. 
 - 🌱 I’m currently learning how to build full-stack applications. 
 - 💞️ I’m looking to collaborate on various projects to develop my skills. 
