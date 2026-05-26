@@ -4,7 +4,7 @@
 
 I am a Software Engineering Master's graduate blending an analytical background in Psychology with strong technical proficiency in full-stack and mobile development. I specialize in building cloud-native applications and real-time multiplayer systems, with a passion for optimizing complex workflows and rapidly absorbing new methodologies.
 
-📄 **[Download My Resume](https://github.com/user-attachments/files/27311477/Tim-Perez.pdf)**
+📄 **[Download My Resume](https://github.com/user-attachments/files/28255972/Tim-Perez.pdf)**
 
 
 ---
@@ -12,9 +12,9 @@ I am a Software Engineering Master's graduate blending an analytical background 
 ### 🛠️ Technical Arsenal
 
 * **Languages:** C#, Java, Python, JavaScript, TypeScript, C++, HTML/CSS
-* **Frontend & Mobile:** React, Vite, Android Architecture Components, Dagger/Hilt, Android MVVM
-* **Backend & Frameworks:** Node.js, .NET, Entity Framework Core
-* **Databases:** Azure SQL, Firebase Realtime Database, PostgreSQL, MongoDB
+* **Frontend, Mobile & Architecture:** React, Vite, Android Architecture Components, Dagger/Hilt, Android MVVM, Next.js App Router, React Server Components, Supabase, NextAuth.js
+* **Backend & Frameworks:** Node.js, .NET, Entity Framework Core, 
+* **Databases:** Azure SQL, Firebase Realtime Database, PostgreSQL, MongoDB, Prisma ORM
 * **Cloud & DevOps:** Docker, AWS, Vercel, Render, CI/CD Pipelines
 
 ---
