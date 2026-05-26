@@ -33,6 +33,13 @@ A peer-to-peer, real-time multiplayer party card game for Android focusing on di
 * Implemented distributed fault tolerance with a deterministic host-election algorithm to ensure seamless gameplay upon user disconnection.
 * Integrated enterprise-grade dependency injection via **Dagger/Hilt** to ensure clean separation of concerns and memory efficiency.
 
+#### [World Cup 2026 Fantasy Football](https://github.com/tim-perez/World-Cup-Fantasy)
+A production-grade full-stack fantasy football platform modeled after UEFA Champions League Fantasy, supporting live squad management, multiplayer leagues, and real-time matchday interactions.
+* Architected a full-stack application using **Next.js App Router**, **React Server Components**, **PostgreSQL**, **Prisma ORM**, and **Supabase**.
+* Developed complex squad-building systems enforcing dynamic formation validation, transfer logic, and real-time budget constraints.
+* Implemented secure authentication workflows including OAuth, **bcrypt password hashing**, protected sessions, and password recovery with **SendGrid**.
+* Designed scalable relational database schemas and deployed cloud-native infrastructure using **Docker**, **Vercel**, and CI/CD workflows.
+
 ---
 
 ### 📫 Connect with Me
