@@ -1,6 +1,6 @@
 # Hi there, I'm Tim Perez 👋
 
-**Aspiring Software Engineer | M.S. Software Engineering Graduate**
+**Software Engineer | M.S. Software Engineering Graduate**
 
 I am a Software Engineering Master's graduate blending an analytical background in Psychology with strong technical proficiency in full-stack and mobile development. I specialize in building cloud-native applications and real-time multiplayer systems, with a passion for optimizing complex workflows and rapidly absorbing new methodologies.
 
