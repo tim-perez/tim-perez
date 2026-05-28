@@ -4,7 +4,7 @@
 
 I am a Master in Software Engineering graduate blending an analytical background in Psychology with strong technical proficiency in full-stack and mobile development. I specialize in building cloud-native applications and real-time multiplayer systems, with a passion for optimizing complex workflows and rapidly absorbing new methodologies.
 
-📄 **[Download My Resume](https://github.com/user-attachments/files/28257074/Tim-Perez.pdf)**
+📄 **[Download My Resume](https://github.com/user-attachments/files/28333296/Tim-Perez.pdf)**
 
 
 
